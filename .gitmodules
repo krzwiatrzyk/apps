@@ -1,3 +1,6 @@
 [submodule "pav"]
 	path = pav
 	url = https://github.com/krzwiatrzyk/pav.git
+[submodule "web-ansible-vault"]
+	path = web-ansible-vault
+	url = https://github.com/krzwiatrzyk/web-ansible-vault.git
